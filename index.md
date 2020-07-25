@@ -95,7 +95,7 @@ I design creative problems for many Olympic competition of Information, e.g.,
 - *Cipher*            (CTSC 2017)  
 - *Daydayup*          (CTSC 2016)  
 - *Transitivity*      (CCPC 2016)  
-- Parallelogram       (CCPC 2016)  
+- *Parallelogram*     (CCPC 2016)  
 - *Dice*              (SCOI 2009)  
 - *Polya’s Pocket*    (NOI2006)  
 - *Shooting Game*     (CTSC2006)  
