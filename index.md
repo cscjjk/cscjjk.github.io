@@ -80,8 +80,8 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 ## Selected Honors
     2002,2003  Gold medals in China National Olympiad in Informatics.  
-    2005       Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
-    2006       19-th place of ACM/ICPC word finals (as the team leader)
+    2005           Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
+    2006           19-th place of ACM/ICPC word finals (as the team leader)
 
 
 ## Other experiences
