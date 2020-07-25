@@ -28,64 +28,64 @@ See http://arxiv.org/abs/1512.03897
 
 ### Publications
 
-- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
+4. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
   *Theoretical Computer Science* (2020 June)
 
-- **Extensions of Self-Improving Sorters** (See Here)
+3. **Extensions of Self-Improving Sorters** (See Here)
 
   *Agorithmica* (2020)
 
   Coauthors: Siu-Wing Cheng, Lie Yan
 
-- **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)
+2. **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)
 
   *Theoretical Computer Science*  (Volume 725, 16 May 2018)
 
   Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
-- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
+1. **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
 
   *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
   
   
 ### Conference papers
 
-- **A Generalization of Self-Improving Algorithms** (See Here)
+8. **A Generalization of Self-Improving Algorithms** (See Here)
 
   *36th Symposium on Computational Geometry* (SoCG'2020)
 
   Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
 
-- **Cooperation via Codes in restricted Hat Guessing Games** (See Here)
+7. **Cooperation via Codes in restricted Hat Guessing Games** (See Here)
 
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19). 
 
   Coauthors: Zhaoquan Gu, Ce Jin
 
-- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
+6. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
   *25th International Computing and Combinatorics Conference* (COCOON'19)
 
-- **Optimal Partitioning Which Maximizes the Weighted Sum of Products** (See Here and full version Here)
+5. **Optimal Partitioning Which Maximizes the Weighted Sum of Products** (See Here and full version Here)
  
   *11th International Frontiers of Algorithmics Workshop* (FAW'17)
 
-- **Fluctuated Fitting under the $\ell_1$-metric** (See Here and full version Here)
+4. **Fluctuated Fitting under the $\ell_1$-metric** (See Here and full version Here)
 
   *11th  International Frontiers of Algorithmics Workshop* (FAW'17)
 
-- **On the Power of Dominated Players in Team Competitions** (See Here )
+3. **On the Power of Dominated Players in Team Competitions** (See Here )
   
   *15th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'16)
   
   Coauthors: Pingzhong Tang, Shiteng Chen
 
-- **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)
+2. **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)
 
   *27th International Symposium on Algorithms and Computation* (ISAAC'16)
 
-- **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)
+1. **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)
 
   *23rd Canadian Conference on Computational Geometry* (CCCG'11)
 
