@@ -4,103 +4,104 @@
 
 ### Education and Experience
 
-2018-now            Postdoc at Hong Kong University of Science and Technology
+*2018-now*           Postdoc at Hong Kong University of Science and Technology
 
-2016-2018          Postdoc at University of Hong Kong
+*2016-2018*          Postdoc at University of Hong Kong
 
-2008-2016          Ph.D, Theoretical Computer Science, Tsinghua University.  Supervised by Andrew Yao.
+*2008-2016*          Ph.D, Theoretical Computer Science, Tsinghua University.  Supervised by Andrew Yao.
 
-2004-2008          Special Pilot CS Class (YAO class), B.S., Computer Science and Technology, Tsinghua University
+*2004-2008*          Special Pilot CS Class (YAO class), B.S., Computer Science and Technology, Tsinghua University
 
 ### Selected Honors
 
-2002,2003         Gold medals in China National Olympiad in Informatics.
+*2002,2003*         Gold medals in China National Olympiad in Informatics.
 
-2005                   Champion of ACM/ICPC regional contest, Chengdu (as the team leader)
+*2005*                   Champion of ACM/ICPC regional contest, Chengdu (as the team leader)
 
-2006                   19-th place of ACM/ICPC word finals (as the team leader)
+*2006*                   19-th place of ACM/ICPC word finals (as the team leader)
 
 ### PhD. Thesis
-When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons,
+**When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons**,
 supervised by Prof. Andrew Yao and advised by Prof Haitao Wang.
+
 See http://arxiv.org/abs/1512.03897
 
 ### Publications
 
 1. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
-  Theoretical Computer Science (2020 June)
+  *Theoretical Computer Science* (2020 June)
 
 1. **A Generalization of Self-Improving Algorithms** (See Here)
 
-  36th Symposium on Computational Geometry (SoCG 2020). 
+  *36th Symposium on Computational Geometry* (SoCG 2020). 
 
   Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong. 
 
 1. **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage**, (See Here)
 
-  Theoretical Computer Science  Volume 725, 16 May 2018.
+  *Theoretical Computer Science*  (Volume 725, 16 May 2018)
 
   Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
 1. **On the Power of Dominated Players in Team Competitions**, (See Here )
   
-  15th conference in Autonomous agents and multiagent systems (AAMAS16). 
+  *15th Conference in Autonomous Agents and Multiagent Systems* (AAMAS16). 
   
   Coauthors: Pingzhong Tang, Shiteng Chen.
 
 1. **Cooperation via Codes in restricted Hat Guessing Games**, (See Here)
 
-  18th conference in Autonomous agents and multiagent systems (AAMAS19). 
+  *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS19). 
 
   Coauthors: Zhaoquan Gu, Ce Jin.
 
 1. **Extensions of Self-Improving Sorters**, (See Here)
 
-  Agorithmica 2020.
+  *Agorithmica* (2020)
 
   Coauthors: Siu-Wing Cheng, Lie Yan. 
 
 1. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
-  25th International Computing and Combinatorics Conference (COCOON'19)
+  *25th International Computing and Combinatorics Conference* (COCOON'19)
 
-1. Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach, (See Here)
+1. **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)
 
-  27th International Symposium on Algorithms and Computation (ISAAC16)
+  *27th International Symposium on Algorithms and Computation* (ISAAC16)
 
-1. Finding the Maximum Area Parallelogram in a Convex Polygon (See Here),
+1. **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here),
 
-  23rd Canadian Conference on Computational Geometry 2011 (CCCG11).
+  *23rd Canadian Conference on Computational Geometry* (CCCG11)
 
   Coauthor: Kevin Matulef
 
-1. Optimal Partitioning Which Maximizes the Weighted Sum of Products, (See Here and full version Here)
+1. **Optimal Partitioning Which Maximizes the Weighted Sum of Products** (See Here and full version Here)
  
-  11th  International Frontiers of Algorithmics Workshop (FAW2017).
+  *11th International Frontiers of Algorithmics Workshop* (FAW2017)
 
-1. Fluctuated Fitting under the $\ell_1$-metric, (See Here and full version Here)
+1. **Fluctuated Fitting under the $\ell_1$-metric** (See Here and full version Here)
 
-  11th  International Frontiers of Algorithmics Workshop (FAW2017).
+  *11th  International Frontiers of Algorithmics Workshop* (FAW2017)
 
-1. Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers  (See Here)
+1. **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
 
-  Notes on Number Theory and Discrete Mathematics (NNTDM),Volume 23, 2017
+  *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
   
 ### Ongoing papers
 
-- A Geometric Structure Associated with the Convex Polygon,  (Arxiv Here)
+- **A Geometric Structure Associated with the Convex Polygon**  (Arxiv Here)
 
-Comment: A small world is created here. Strongly Recommanded!
+*Comment: A small world is created here. Strongly Recommanded!*
 
-- Maximal Area Triangles in a Convex Polygon, (Arxiv Here)
+- **Maximal Area Triangles in a Convex Polygon** (Arxiv Here)
 
-Computing the Maximal Area Triangle in a convex polygon is a very classic problem in geometric optimization in CG. Surprisingly, the previous known linear-time algorithm by Dobkin and Snyder (see their FOCS paper Here) for this problem is incorrect! This is recently discoverd by Keikha, Löffler, Urhausen, and Hoog [here], where redesigning a linear-time algorithm has been proposed as an open problem. I resolved it in this paper by presenting a linear-time algorithm which is simple and delightful.
+*Comment: Computing the Maximal Area Triangle in a convex polygon is a very classic problem in geometric optimization in CG. Surprisingly, the previous known linear-time algorithm by Dobkin and Snyder (see their FOCS paper Here) for this problem is incorrect! This is recently discoverd by Keikha, Löffler, Urhausen, and Hoog [here], where redesigning a linear-time algorithm has been proposed as an open problem. I resolved it in this paper by presenting a linear-time algorithm which is simple and delightful.*
 
-- Finding all Maximal Area Parallelograms in a Convex Polygon,  (Arxiv Here)
+- **Finding all Maximal Area Parallelograms in a Convex Polygon**  (Arxiv Here)
 
-This paper is the full version of my CCCG11 paper.
-Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.
+*Comment: This paper is the full version of my CCCG11 paper.
+Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
 ### Other experiences
 
@@ -108,21 +109,21 @@ I serve as a student coach in China Olympiad Informatics team.
 
 I design creative problems for many Olympic competition of Information, e.g.,
 
-- Ingenious Latin, Fragments, Dead4gon,          in   ACM-HK-regional 2018,
+- *Ingenious Latin, Fragments, Dead4gon*          in   ACM-HK-regional 2018,
 
-- Cipher            in CTSC 2017,           
+- *Cipher*            in CTSC 2017,           
 
-- Daydayup          in CTSC 2016,           
+- *Daydayup*          in CTSC 2016,           
 
-- Transitivity      in CCPC 2016,
+- *Transitivity*      in CCPC 2016,
 
-- Parallelogram     in CCPC 2016,
+- *Parallelogram*     in CCPC 2016,
 
-- Dice              in SCOI 2009,           
+- *Dice*              in SCOI 2009,           
 
-- Polya’s Pocket    in NOI2006,
+- *Polya’s Pocket*    in NOI2006,
 
-- Shooting Game     in CTSC2006,            
+- *Shooting Game*     in CTSC2006,            
 
-- Comb and etc.     in HNTSC 2005.
+- *Comb and etc.*     in HNTSC 2005.
                           
