@@ -28,40 +28,64 @@ See http://arxiv.org/abs/1512.03897
 ### Publications
 
 - On 1-factorizations of Bipartite Kneser Graphs  (See Here)
+
 Theoretical Computer Science (2020 June)
 
 - A Generalization of Self-Improving Algorithms (See Here)
-  the 36th Symposium on Computational Geometry (Socg 2020). Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong. 
+
+the 36th Symposium on Computational Geometry (SoCG 2020). 
+
+Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong. 
 
 - Near-Linear Time Approximation Schemes for Geometric Maximum Coverage, (See Here)
-Theoretical Computer Science  Volume 725, 16 May 2018. Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
+
+Theoretical Computer Science  Volume 725, 16 May 2018.
+
+Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
 - On the Power of Dominated Players in Team Competitions, (See Here )
-  the 15th conference in Autonomous agents and multiagent systems (AAMAS16). Coauthors: Pingzhong Tang, Shiteng Chen.
+  
+the 15th conference in Autonomous agents and multiagent systems (AAMAS16). 
+  
+Coauthors: Pingzhong Tang, Shiteng Chen.
 
 - Cooperation via Codes in restricted Hat Guessing Games, (See Here)
-  the 18th conference in Autonomous agents and multiagent systems (AAMAS19). Coauthors: Zhaoquan Gu, Ce Jin.
+
+the 18th conference in Autonomous agents and multiagent systems (AAMAS19). 
+
+Coauthors: Zhaoquan Gu, Ce Jin.
 
 - Extensions of Self-Improving Sorters, (See Here)
-  Agorithmica 2020.  Coauthors: Siu-Wing Cheng, Lie Yan. 
+
+Agorithmica 2020.
+
+Coauthors: Siu-Wing Cheng, Lie Yan. 
 
 - On 1-factorizations of Bipartite Kneser Graphs  (See Here)
- The 25th International Computing and Combinatorics Conference (COCOON'19)
+
+the 25th International Computing and Combinatorics Conference (COCOON'19)
 
 - Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach, (See Here)
-  the 27th International Symposium on Algorithms and Computation (ISAAC16)
+
+the 27th International Symposium on Algorithms and Computation (ISAAC16)
 
 - Finding the Maximum Area Parallelogram in a Convex Polygon (See Here),
-  the 23rd Canadian Conference on Computational Geometry 2011 (CCCG11). Coauthor: Kevin Matulef
+
+the 23rd Canadian Conference on Computational Geometry 2011 (CCCG11).
+
+Coauthor: Kevin Matulef
 
 - Optimal Partitioning Which Maximizes the Weighted Sum of Products, (See Here and full version Here)
-  the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
+ 
+the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
 
 - Fluctuated Fitting under the $\ell_1$-metric, (See Here and full version Here)
-  the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
+
+the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
 
 - Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers  (See Here)
-  Notes on Number Theory and Discrete Mathematics (NNTDM),Volume 23, 2017
+
+Notes on Number Theory and Discrete Mathematics (NNTDM),Volume 23, 2017
   
 ### Ongoing papers
 
