@@ -10,8 +10,8 @@
     2004-2008          B.S., Special Pilot CS Class (YAO class), Tsinghua University
 
 ## PhD. Thesis
-    When Convexity meets Parallelism – a New Geometric Structure and Its Application
-     in Finding the Maximal Parallelograms in Convex Polygons.
+    When Convexity meets Parallelism – a New Geometric Structure and Its
+     Application in Finding the Maximal Parallelograms in Convex Polygons.
     Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
     See http://arxiv.org/abs/1512.03897
 
