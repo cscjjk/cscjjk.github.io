@@ -32,11 +32,11 @@ See http://arxiv.org/abs/1512.03897
 
   *Theoretical Computer Science* (2020 June)
 
-- **A Generalization of Self-Improving Algorithms** (See Here)
+- **Extensions of Self-Improving Sorters** (See Here)
 
-  *36th Symposium on Computational Geometry* (SoCG 2020)
+  *Agorithmica* (2020)
 
-  Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
+  Coauthors: Siu-Wing Cheng, Lie Yan
 
 - **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)
 
@@ -44,49 +44,52 @@ See http://arxiv.org/abs/1512.03897
 
   Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
-- **On the Power of Dominated Players in Team Competitions** (See Here )
+- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
+
+  *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
   
-  *15th Conference in Autonomous Agents and Multiagent Systems* (AAMAS16)
   
-  Coauthors: Pingzhong Tang, Shiteng Chen
+### Conference papers
+
+- **A Generalization of Self-Improving Algorithms** (See Here)
+
+  *36th Symposium on Computational Geometry* (SoCG'2020)
+
+  Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
 
 - **Cooperation via Codes in restricted Hat Guessing Games** (See Here)
 
-  *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS19). 
+  *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19). 
 
   Coauthors: Zhaoquan Gu, Ce Jin
-
-- **Extensions of Self-Improving Sorters** (See Here)
-
-  *Agorithmica* (2020)
-
-  Coauthors: Siu-Wing Cheng, Lie Yan
 
 - **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
   *25th International Computing and Combinatorics Conference* (COCOON'19)
 
-- **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)
-
-  *27th International Symposium on Algorithms and Computation* (ISAAC16)
-
-- **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)
-
-  *23rd Canadian Conference on Computational Geometry* (CCCG11)
-
-  Coauthor: Kevin Matulef
-
 - **Optimal Partitioning Which Maximizes the Weighted Sum of Products** (See Here and full version Here)
  
-  *11th International Frontiers of Algorithmics Workshop* (FAW2017)
+  *11th International Frontiers of Algorithmics Workshop* (FAW'17)
 
 - **Fluctuated Fitting under the $\ell_1$-metric** (See Here and full version Here)
 
-  *11th  International Frontiers of Algorithmics Workshop* (FAW2017)
+  *11th  International Frontiers of Algorithmics Workshop* (FAW'17)
 
-- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
+- **On the Power of Dominated Players in Team Competitions** (See Here )
+  
+  *15th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'16)
+  
+  Coauthors: Pingzhong Tang, Shiteng Chen
 
-  *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
+- **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)
+
+  *27th International Symposium on Algorithms and Computation* (ISAAC'16)
+
+- **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)
+
+  *23rd Canadian Conference on Computational Geometry* (CCCG'11)
+
+  Coauthor: Kevin Matulef
   
 
 ### Ongoing papers
@@ -106,25 +109,25 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 ### Other experiences
 
-I serve as a student coach in China Olympiad Informatics team. 
+I serve as a student coach in China Olympiad Informatics team (2006-2017)
 
 I design creative problems for many Olympic competition of Information, e.g.,
 
-- *Ingenious Latin, Fragments, Dead4gon*          in   ACM-HK-regional 2018,
+- *Ingenious Latin, Fragments, Dead4gon*          (ACM-HK-regional 2018)
 
-- *Cipher*            in CTSC 2017,           
+- *Cipher*            (CTSC 2017)           
 
-- *Daydayup*          in CTSC 2016,           
+- *Daydayup*          (CTSC 2016)
 
-- *Transitivity*      in CCPC 2016,
+- *Transitivity*      (CCPC 2016)
 
-- *Parallelogram*     in CCPC 2016,
+- Parallelogram       (CCPC 2016)
 
-- *Dice*              in SCOI 2009,           
+- *Dice*              (SCOI 2009)  
 
-- *Polya’s Pocket*    in NOI2006,
+- *Polya’s Pocket*    (NOI2006)
 
-- *Shooting Game*     in CTSC2006,            
+- *Shooting Game*     (CTSC2006) 
 
-- *Comb and etc.*     in HNTSC 2005.
+- *Comb and etc.*     (HNTSC 2005)
                           
