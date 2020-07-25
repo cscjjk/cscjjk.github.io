@@ -12,10 +12,10 @@
 
 
 ## PhD. Thesis
-    When Convexity meets Parallelism – a New Geometric Structure and Its
-     Application in Finding the Maximal Parallelograms in Convex Polygons.
-    Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
-    See http://arxiv.org/abs/1512.03897
+   
+**When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons.**  
+Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.  
+See http://arxiv.org/abs/1512.03897
 
 
 ## Publications
