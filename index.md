@@ -23,7 +23,7 @@ See http://arxiv.org/abs/1512.03897
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
   *Theoretical Computer Science* (2020 June)
 
-- [**Extensions of Self-Improving Sorters**](https://drops.dagstuhl.de/opus/volltexte/2020/12187/)  
+- [**Extensions of Self-Improving Sorters**](https://doi.org/10.1007/s00453-019-00604-6)  
   *Agorithmica* (2020)  
   Coauthors: Siu-Wing Cheng, Lie Yan
 
@@ -36,44 +36,46 @@ See http://arxiv.org/abs/1512.03897
 
 ## Conference papers
 
-- **A Generalization of Self-Improving Algorithms** (See Here)  
+- [**A Generalization of Self-Improving Algorithms**](https://doi.org/10.4230/LIPIcs.SoCG.2020.29)  
   *36th Symposium on Computational Geometry* (SoCG'2020)  
   Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
 
-- **Cooperation via Codes in Restricted Hat Guessing Games** (See Here)  
+- [**Cooperation via Codes in Restricted Hat Guessing Games**](https://dl.acm.org/doi/10.5555/3306127.3331739)  
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19)  
   Coauthors: Zhaoquan Gu, Ce Jin
 
-- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)  
+- [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1007/978-3-030-26176-4_28)  
   *25th International Computing and Combinatorics Conference* (COCOON'19)
   
-- **Optimal Partitioning Which Maximizes the Weighted Sum of Products** (See Here and full version Here)  
-  *11th International Frontiers of Algorithmics Workshop* (FAW'17)
+- [**Optimal Partitioning Which Maximizes the Weighted Sum of Products**](https://doi.org/10.1007/978-3-319-59605-1_12) 
+  *11th International Frontiers of Algorithmics Workshop* (FAW'17)  
+  [See the full version here](https://drive.google.com/file/d/0B2JlHvPluDtNamlTUU5vd1RuZkE/view)
 
-- **Fluctuated Fitting under the $\ell_1$-metric** (See Here and full version Here)  
-  *11th  International Frontiers of Algorithmics Workshop* (FAW'17)
+- [**Fluctuated Fitting under the $\ell_1$-metric**](https://doi.org/10.1007/978-3-319-59605-1_11)  
+  *11th  International Frontiers of Algorithmics Workshop* (FAW'17)  
+  [See the full version here](https://drive.google.com/file/d/0B2JlHvPluDtNRTVHV0M1RlVUN00/view)
 
-- **On the Power of Dominated Players in Team Competitions** (See Here )  
+- [**On the Power of Dominated Players in Team Competitions**](https://dl.acm.org/doi/10.5555/2936924.2936932)  
   *15th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'16)  
   Coauthors: Pingzhong Tang, Shiteng Chen
 
-- **Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach** (See Here)  
+- [**Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach**](https://doi.org/10.4230/LIPIcs.ISAAC.2016.39)  
   *27th International Symposium on Algorithms and Computation* (ISAAC'16)
 
-- **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)  
+- [**Finding the Maximum Area Parallelogram in a Convex Polygon**](http://www.cccg.ca/proceedings/2011/papers/paper3.pdf)  
   *23rd Canadian Conference on Computational Geometry* (CCCG'11)  
   Coauthor: Kevin Matulef
 
 
 ## Ongoing papers
 
-- **A Geometric Structure Associated with the Convex Polygon**  (Arxiv Here)  
+- [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
 *Comment: A small world is created here. Strongly Recommanded!*
 
-- **Maximal Area Triangles in a Convex Polygon** (Arxiv Here)  
+- [**Maximal Area Triangles in a Convex Polygon**](https://arxiv.org/abs/1707.04071)  
 *Comment: Computing the Maximal Area Triangle in a convex polygon is a very classic problem in geometric optimization in CG. Surprisingly, the previous known linear-time algorithm by Dobkin and Snyder (see their FOCS paper Here) for this problem is incorrect! This is recently discoverd by Keikha, Löffler, Urhausen, and Hoog [here], where redesigning a linear-time algorithm has been proposed as an open problem. I resolved it in this paper by presenting a linear-time algorithm which is simple and delightful.*
 
-- **Finding all Maximal Area Parallelograms in a Convex Polygon**  (Arxiv Here)  
+- [**Finding all Maximal Area Parallelograms in a Convex Polygon**](https://arxiv.org/abs/1711.00181)  
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
