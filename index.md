@@ -12,14 +12,6 @@
 
 *2004-2008*          Special Pilot CS Class (YAO class), B.S., Computer Science and Technology, Tsinghua University
 
-### Selected Honors
-
-*2002,2003*         Gold medals in China National Olympiad in Informatics.
-
-*2005*                   Champion of ACM/ICPC regional contest, Chengdu (as the team leader)
-
-*2006*                   19-th place of ACM/ICPC word finals (as the team leader)
-
 ### PhD. Thesis
 **When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons**,
 supervised by Prof. Andrew Yao and advised by Prof Haitao Wang.
@@ -106,6 +98,14 @@ See http://arxiv.org/abs/1512.03897
 
 *Comment: This paper is the full version of my CCCG11 paper.
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
+
+### Selected Honors
+
+*2002,2003*         Gold medals in China National Olympiad in Informatics.
+
+*2005*                   Champion of ACM/ICPC regional contest, Chengdu (as the team leader)
+
+*2006*                   19-th place of ACM/ICPC word finals (as the team leader)
 
 ### Other experiences
 
