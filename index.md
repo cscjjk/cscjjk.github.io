@@ -4,7 +4,7 @@
 
 
 ## Education and Experience
-    2020.7             I joined SYSU (school of intelligent systems engineering)
+    2020.7                 I joined SYSU (school of intelligent systems engineering)
     2018-2020          Postdoc at Hong Kong University of Science and Technology
     2016-2018          Postdoc at University of Hong Kong
     2008-2016          Ph.D, Theoretical Computer Science, Tsinghua University
