@@ -3,16 +3,16 @@
     Geometry,    Algorithms,    Game Theory,   Combinatorics
 
 ## Education and Experience
-    2018-now           Postdoc at Hong Kong University of Science and Technology
+    2020.7             I joined SYSU (school of intelligent systems engineering)
+    2018-2020          Postdoc at Hong Kong University of Science and Technology
     2016-2018          Postdoc at University of Hong Kong
     2008-2016          Ph.D, Theoretical Computer Science, Tsinghua University
     2004-2008          B.S., Special Pilot CS Class (YAO class), Tsinghua University
 
 ## PhD. Thesis
-**When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons**,
-supervised by Prof. Andrew Yao and advised by Prof Haitao Wang.
-
-See http://arxiv.org/abs/1512.03897
+    When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons,
+    supervised by Prof. Andrew Yao and advised by Prof Haitao Wang.
+    See http://arxiv.org/abs/1512.03897
 
 ## Publications
 
