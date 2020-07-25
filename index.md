@@ -4,11 +4,11 @@
 
 
 ## Education and Experience
-    2020.7                I joined SYSU (school of intelligent systems engineering)
-    2018-2020          Postdoc at Hong Kong University of Science and Technology
-    2016-2018          Postdoc at University of Hong Kong
-    2008-2016          Ph.D, Theoretical Computer Science, Tsinghua University
-    2004-2008          B.S., Special Pilot CS Class (YAO class), Tsinghua University
+    2020-????  I joined SYSU (school of intelligent systems engineering)
+    2018-2020  Postdoc at Hong Kong University of Science and Technology
+    2016-2018  Postdoc at University of Hong Kong
+    2008-2016  Ph.D, Theoretical Computer Science, Tsinghua University
+    2004-2008  B.S., Special Pilot CS Class (YAO class), Tsinghua University
 
 
 ## PhD. Thesis
@@ -79,9 +79,10 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 
 ## Selected Honors
-    2002,2003  Gold medals in China National Olympiad in Informatics.  
-    2005           Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
-    2006           19-th place of ACM/ICPC word finals (as the team leader)
+    2002  Gold medal in China National Olympiad in Informatics
+    2003  Gold medal in China National Olympiad in Informatics
+    2005  Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
+    2006  19-th place of ACM/ICPC word finals (as the team leader)
 
 
 ## Other experiences
