@@ -27,65 +27,65 @@ See http://arxiv.org/abs/1512.03897
 
 ### Publications
 
-- On 1-factorizations of Bipartite Kneser Graphs  (See Here)
+1. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
-Theoretical Computer Science (2020 June)
+  Theoretical Computer Science (2020 June)
 
-- A Generalization of Self-Improving Algorithms (See Here)
+1. **A Generalization of Self-Improving Algorithms** (See Here)
 
-the 36th Symposium on Computational Geometry (SoCG 2020). 
+  36th Symposium on Computational Geometry (SoCG 2020). 
 
-Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong. 
+  Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong. 
 
-- Near-Linear Time Approximation Schemes for Geometric Maximum Coverage, (See Here)
+1. **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage**, (See Here)
 
-Theoretical Computer Science  Volume 725, 16 May 2018.
+  Theoretical Computer Science  Volume 725, 16 May 2018.
 
-Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
+  Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
-- On the Power of Dominated Players in Team Competitions, (See Here )
+1. **On the Power of Dominated Players in Team Competitions**, (See Here )
   
-the 15th conference in Autonomous agents and multiagent systems (AAMAS16). 
+  15th conference in Autonomous agents and multiagent systems (AAMAS16). 
   
-Coauthors: Pingzhong Tang, Shiteng Chen.
+  Coauthors: Pingzhong Tang, Shiteng Chen.
 
-- Cooperation via Codes in restricted Hat Guessing Games, (See Here)
+1. **Cooperation via Codes in restricted Hat Guessing Games**, (See Here)
 
-the 18th conference in Autonomous agents and multiagent systems (AAMAS19). 
+  18th conference in Autonomous agents and multiagent systems (AAMAS19). 
 
-Coauthors: Zhaoquan Gu, Ce Jin.
+  Coauthors: Zhaoquan Gu, Ce Jin.
 
-- Extensions of Self-Improving Sorters, (See Here)
+1. **Extensions of Self-Improving Sorters**, (See Here)
 
-Agorithmica 2020.
+  Agorithmica 2020.
 
-Coauthors: Siu-Wing Cheng, Lie Yan. 
+  Coauthors: Siu-Wing Cheng, Lie Yan. 
 
-- On 1-factorizations of Bipartite Kneser Graphs  (See Here)
+1. **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
 
-the 25th International Computing and Combinatorics Conference (COCOON'19)
+  25th International Computing and Combinatorics Conference (COCOON'19)
 
-- Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach, (See Here)
+1. Computing the Pattern Waiting Time: A Revisit of the Intuitive Approach, (See Here)
 
-the 27th International Symposium on Algorithms and Computation (ISAAC16)
+  27th International Symposium on Algorithms and Computation (ISAAC16)
 
-- Finding the Maximum Area Parallelogram in a Convex Polygon (See Here),
+1. Finding the Maximum Area Parallelogram in a Convex Polygon (See Here),
 
-the 23rd Canadian Conference on Computational Geometry 2011 (CCCG11).
+  23rd Canadian Conference on Computational Geometry 2011 (CCCG11).
 
-Coauthor: Kevin Matulef
+  Coauthor: Kevin Matulef
 
-- Optimal Partitioning Which Maximizes the Weighted Sum of Products, (See Here and full version Here)
+1. Optimal Partitioning Which Maximizes the Weighted Sum of Products, (See Here and full version Here)
  
-the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
+  11th  International Frontiers of Algorithmics Workshop (FAW2017).
 
-- Fluctuated Fitting under the $\ell_1$-metric, (See Here and full version Here)
+1. Fluctuated Fitting under the $\ell_1$-metric, (See Here and full version Here)
 
-the 11th  International Frontiers of Algorithmics Workshop (FAW2017).
+  11th  International Frontiers of Algorithmics Workshop (FAW2017).
 
-- Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers  (See Here)
+1. Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers  (See Here)
 
-Notes on Number Theory and Discrete Mathematics (NNTDM),Volume 23, 2017
+  Notes on Number Theory and Discrete Mathematics (NNTDM),Volume 23, 2017
   
 ### Ongoing papers
 
