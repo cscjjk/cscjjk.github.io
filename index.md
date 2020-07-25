@@ -1,3 +1,17 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>金恺 Kai Jin</h1>
+      <p><b>副教授Associate Professor</b></p>
+      <p><b>中山大学智能工程学院 SYSU-School of Intelligent Systems Engineering</b></p>
+      <p><b>cscjjk@gmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/kaijin-photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ## Research Interests
     Geometry, Algorithms, Game Theory, Combinatorics
