@@ -3,14 +3,10 @@
     Geometry,    Algorithms,    Game Theory,   Combinatorics
 
 ### Education and Experience
-
-*2018-now*           Postdoc at Hong Kong University of Science and Technology
-
-*2016-2018*          Postdoc at University of Hong Kong
-
-*2008-2016*          Ph.D, Theoretical Computer Science, Tsinghua University.  Supervised by Andrew Yao.
-
-*2004-2008*          Special Pilot CS Class (YAO class), B.S., Computer Science and Technology, Tsinghua University
+    *2018-now*           Postdoc at Hong Kong University of Science and Technology
+    *2016-2018*          Postdoc at University of Hong Kong
+    *2008-2016*          Ph.D, Theoretical Computer Science, Tsinghua University.  Supervised by Andrew Yao.
+    *2004-2008*          Special Pilot CS Class (YAO class), B.S., Computer Science and Technology, Tsinghua University
 
 ### PhD. Thesis
 **When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons**,
