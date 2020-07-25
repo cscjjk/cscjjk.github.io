@@ -57,7 +57,7 @@ See http://arxiv.org/abs/1512.03897
 
   Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
 
-- **Cooperation via Codes in restricted Hat Guessing Games** (See Here)
+- **Cooperation via Codes in Restricted Hat Guessing Games** (See Here)
 
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19). 
 
