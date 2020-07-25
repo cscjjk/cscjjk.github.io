@@ -2,6 +2,7 @@
 ## Research Interests
     Geometry, Algorithms, Game Theory, Combinatorics
 
+
 ## Education and Experience
     2020.7             I joined SYSU (school of intelligent systems engineering)
     2018-2020          Postdoc at Hong Kong University of Science and Technology
@@ -9,11 +10,13 @@
     2008-2016          Ph.D, Theoretical Computer Science, Tsinghua University
     2004-2008          B.S., Special Pilot CS Class (YAO class), Tsinghua University
 
+
 ## PhD. Thesis
     When Convexity meets Parallelism – a New Geometric Structure and Its
      Application in Finding the Maximal Parallelograms in Convex Polygons.
     Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
     See http://arxiv.org/abs/1512.03897
+
 
 ## Publications
 
@@ -21,21 +24,16 @@
   *Theoretical Computer Science* (2020 June)
 
 - **Extensions of Self-Improving Sorters** (See Here)  
-  *Agorithmica* (2020)
-
+  *Agorithmica* (2020)  
   Coauthors: Siu-Wing Cheng, Lie Yan
 
-- **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)
-
-  *Theoretical Computer Science*  (Volume 725, 16 May 2018)
-
+- **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)  
+  *Theoretical Computer Science*  (Volume 725, 16 May 2018)  
   Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
-- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)
-
+- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)  
   *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
-  
-  
+
 ## Conference papers
 
 - **A Generalization of Self-Improving Algorithms** (See Here)  
@@ -65,8 +63,8 @@
 - **Finding the Maximum Area Parallelogram in a Convex Polygon** (See Here)  
   *23rd Canadian Conference on Computational Geometry* (CCCG'11)  
   Coauthor: Kevin Matulef
-  
-  
+
+
 ## Ongoing papers
 
 - **A Geometric Structure Associated with the Convex Polygon**  (Arxiv Here)  
@@ -79,10 +77,12 @@
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
+
 ## Selected Honors
     2002,2003  Gold medals in China National Olympiad in Informatics.  
     2005       Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
     2006       19-th place of ACM/ICPC word finals (as the team leader)
+
 
 ## Other experiences
 
@@ -97,5 +97,4 @@ I design creative problems for many Olympic competition of Information, e.g.,
 - *Polya’s Pocket*    (NOI2006)  
 - *Shooting Game*     (CTSC2006)  
 - *Comb and etc.*     (HNTSC 2005)
-
 
