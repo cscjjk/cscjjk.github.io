@@ -17,12 +17,10 @@
 
 ## Publications
 
-- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)
-
+- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)  
   *Theoretical Computer Science* (2020 June)
 
-- **Extensions of Self-Improving Sorters** (See Here)
-
+- **Extensions of Self-Improving Sorters** (See Here)  
   *Agorithmica* (2020)
 
   Coauthors: Siu-Wing Cheng, Lie Yan
