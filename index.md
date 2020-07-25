@@ -1,6 +1,6 @@
 
 ## Research Interests
-    Geometry,    Algorithms,    Game Theory,   Combinatorics
+    Geometry, Algorithms, Game Theory, Combinatorics
 
 ## Education and Experience
     2020.7             I joined SYSU (school of intelligent systems engineering)
