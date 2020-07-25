@@ -20,18 +20,18 @@ See http://arxiv.org/abs/1512.03897
 
 ## Publications
 
-- **On 1-factorizations of Bipartite Kneser Graphs**  (See Here)  
+- [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
   *Theoretical Computer Science* (2020 June)
 
-- **Extensions of Self-Improving Sorters** (See Here)  
+- [*Extensions of Self-Improving Sorters**](https://drops.dagstuhl.de/opus/volltexte/2020/12187/)  
   *Agorithmica* (2020)  
   Coauthors: Siu-Wing Cheng, Lie Yan
 
-- **Near-Linear Time Approximation Schemes for Geometric Maximum Coverage** (See Here)  
+- [*Near-Linear Time Approximation Schemes for Geometric Maximum Coverage**](https://doi.org/10.1016/j.tcs.2017.11.026)  
   *Theoretical Computer Science*  (Volume 725, 16 May 2018)  
   Coauthors: J. Li, H. Wang, B. Zhang, N. Zhang
 
-- **Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**  (See Here)  
+- [**Ascending Sequences with Neighboring Elements add up to Perfect Square Numbers**](http://nntdm.net/volume-23-2017/number-1/24-27/)  
   *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
 
 ## Conference papers
