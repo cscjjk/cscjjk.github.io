@@ -32,11 +32,20 @@
     Ph.D, Theoretical Computer Science, Tsinghua University (2016)  
       My supervisor is Prof Andrew C. Yao.  
 
-### PhD. Thesis
-   
-[**_When Convexity Meets Parallelism – a New Geometric Structure and Its Application_**](http://arxiv.org/abs/1512.03897)  
-Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.  
-
+### My PhD. Thesis
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>When Convexity Meets Parallelism</h1>
+      <p><b>– a New Geometric Structure and Its Application</b></p>
+      <p><b>See the short version [here](http://arxiv.org/abs/1512.03897)</b></p>
+      <p><b>Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.</b></p>
+    </td>
+    <td width="40%">
+      <img src="/nestp.png" width="95%">
+    </td>
+  </tr>
+</table>
 
 ## Journal publications
 
