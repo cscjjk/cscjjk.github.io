@@ -143,6 +143,6 @@ I design creative problems for many Olympic competition of Information, e.g.,
 - *Comb and etc.*     (HNTSC 2005)
 
 ## Coach for ACM/ICPC in SYSU-school of ISE  
-  I am the head coach for ACM/ICPC in our department.  
+  I am the head coach for the trainning of ACM/ICPC in our department.  
   Please contact me if you are a student from ISE who want to join the tranning.
 
