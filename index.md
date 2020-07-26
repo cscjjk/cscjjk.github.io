@@ -24,7 +24,7 @@
      - **Combinatorics**
      - **Discrete and Convex Geometry**
      
-  I am most interested in solving open problems that have a clean definition in theoretical computer sceicne.
+  I am most interested in solving open problems that have clean definitions in theoretical computer sceicne.
 
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
