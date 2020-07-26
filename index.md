@@ -125,6 +125,9 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
    - "International Conference on Computing and Combinatorics",  
    - "International Journal of Foundations of Computer Science".
 
+## Received funding
+  - Sun Yat-sen University’s "Hundred Talents Program" research funding.
+  
 ## Other experiences
 
 I serve as a student coach in China Olympiad Informatics team (2006-2017)  
@@ -139,5 +142,7 @@ I design creative problems for many Olympic competition of Information, e.g.,
 - *Shooting Game*     (CTSC2006)  
 - *Comb and etc.*     (HNTSC 2005)
 
-## Received funding
-  - Sun Yat-sen University’s "Hundred Talents Program" research funding.
+## Coach for ACM/ICPC in SYSU-school of ISE  
+  I am the head coach for ACM/ICPC in our department.  
+  Please contact me if you want to join the tranning for ACM/ICPC.
+
