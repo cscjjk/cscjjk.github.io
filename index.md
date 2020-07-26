@@ -118,7 +118,8 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
    - "Discrete Applied Mathematics",  
    - "European Symposium of Algorithms",  
    - "International Symposium on Algorithms and Computation",  
-   - "International Conference on Computing and Combinatorics", etc.
+   - "International Conference on Computing and Combinatorics",  
+   - "International Journal of Foundations of Computer Science".
 
 ## Other experiences
 
