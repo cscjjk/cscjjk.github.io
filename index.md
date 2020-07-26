@@ -34,7 +34,7 @@
 
 ### PhD. Thesis
    
-[**_When Convexity meets Parallelism – a New Geometric Structure and Its Application_**](http://arxiv.org/abs/1512.03897)  
+[**_When Convexity Meets Parallelism – a New Geometric Structure and Its Application_**](http://arxiv.org/abs/1512.03897)  
 Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.  
 
 
