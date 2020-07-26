@@ -14,9 +14,9 @@
 
 ## Brief introduction
 
-  I joined SYSU (School of Intelligent Systems Engineering) on 2020.  
-  I am a member of *Hundred talents program of Sun Yat sen University*.  
-  I was a postdoc in HKU (2016-2018) and in HKUST (2018-2020).  
+  I joined SYSU (School of Intelligent Systems Engineering) on July 2020,  
+    as a member of *Hundred talents program of Sun Yat sen University*.  
+  Previously, I was a postdoc in HKU (2016-2018) and in HKUST (2018-2020).  
   
   I am most interested in solving open problems that have clean definitions in theoretical computer sceicne. My current research area includes:  
      - **Computational Geometry**  
@@ -24,6 +24,8 @@
      - **Algorithm Design**  
      - **Combinatorics**  
      - **Discrete and Convex Geometry**
+     
+  I want to recruit self-motivated master students who are good at mathematics or computer programming.
 
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
