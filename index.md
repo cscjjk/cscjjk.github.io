@@ -22,7 +22,9 @@
      - **Game Theory**
      - **Algorithm Design**
      - **Combinatorics**
-  I am most interested in solving clean-defined open problems in theoretical computer sceicne.
+     - **Discrete and Convex Geometry**
+     
+  I am most interested in solving open problems that have a clean definition in theoretical computer sceicne.
 
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
