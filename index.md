@@ -7,7 +7,7 @@
       <p><b>cscjjk@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/kaijin-photo.jpg" width="100%">
+      <img src="/kaijin-photo.jpg" width="90%">
     </td>
   </tr>
 </table>
@@ -95,6 +95,16 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
+## My funding
+  - Sun Yat-sen University’s "Hundred Talents Program" research funding.
+
+## Ongoing projects  
+  1. I am looking for more applications of my technique for solving the polygon inclusion problems.  
+  2. I am working with Prof Siu-Wing Cheng (HKUST) on *self-improving algorithms*.  
+  3. I am revising some previous results given in conference papers (e.g. AAMAS'19, ISAAC'16).
+  4. I am attracted by some open problems in game theory and will study them recently.
+  I am particularly interested in cooperation and competition between multiple players.
+  5. I am working on geometric optimization problems.
 
 ## Selected Honors
     2002  Gold medal in China National Olympiad in Informatics
