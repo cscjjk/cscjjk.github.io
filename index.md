@@ -83,7 +83,7 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
   Coauthor: Kevin Matulef
 
 
-## Ongoing papers
+## Submitted papers
 
 - [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
 *Comment: A small world is created here. It is my representative work!*
