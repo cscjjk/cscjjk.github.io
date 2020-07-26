@@ -12,26 +12,29 @@
   </tr>
 </table>
 
+## Brief Introduction
 
-## Research Interests
-    Geometry, Algorithms, Game Theory, Combinatorics
-
+  I joined SYSU (School of Intelligent Systems Engineering) on 2020.  
+  I am a member of *Hundred talents program of Sun Yat sen University*.  
+  I was a postdoc in HKU (2016-2018) and in HKUST (2018-2020).  
+  My research area includes:  
+     - **Computational Geometry**
+     - **Game Theory**
+     - **Algorithm Design**
+     - **Combinatorics**
 
 ## Education and Experience
-    2020-0000  I joined SYSU (School of Intelligent Systems Engineering)
-    2018-2020  Postdoc at Hong Kong University of Science and Technology
-    2016-2018  Postdoc at University of Hong Kong
-    2008-2016  Ph.D, Theoretical Computer Science, Tsinghua University
-    2004-2008  B.S., Special Pilot CS Class (YAO class), Tsinghua University
+    B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
+    Ph.D, Theoretical Computer Science, Tsinghua University (2016)  
+      My supervisor is Prof Andrew C. Yao.  
 
-
-## PhD. Thesis
+### PhD. Thesis
    
 [**_When Convexity meets Parallelism – a New Geometric Structure and Its Application in Finding the Maximal Parallelograms in Convex Polygons._**](http://arxiv.org/abs/1512.03897)  
 Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.  
 
 
-## Publications
+## Journal Publications
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
   *Theoretical Computer Science* (2020 June)
@@ -83,10 +86,10 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
 ## Ongoing papers
 
 - [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
-*Comment: A small world is created here. Strongly Recommanded!*
+*Comment: A small world is created here. It is my representative work!*
 
-- [**Maximal Area Triangles in a Convex Polygon**](https://arxiv.org/abs/1707.04071)  
-*Comment: Computing the Maximal Area Triangle in a convex polygon is a very classic problem in geometric optimization in CG. Surprisingly, the previous known linear-time algorithm by Dobkin and Snyder (see their FOCS paper Here) for this problem is incorrect! This is recently discoverd by Keikha, Löffler, Urhausen, and Hoog [here], where redesigning a linear-time algorithm has been proposed as an open problem. I resolved it in this paper by presenting a linear-time algorithm which is simple and delightful.*
+- [**A technique for solving the polygon inclusion problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view?usp=sharing)  
+*Comment: A general technique for solving many polygon inclusion problems*
 
 - [**Finding all Maximal Area Parallelograms in a Convex Polygon**](https://arxiv.org/abs/1711.00181)  
 *Comment: This paper is the full version of my CCCG11 paper.  
@@ -99,6 +102,8 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
     2005  Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
     2006  19-th place of ACM/ICPC word finals (as the team leader)
 
+## Services
+  I am a reviewer or sub-reviewer for <Journal of Computational Geometry>, <Algorithmica>, <Information Process Letter>, <Discrete Applied Mathematics>, <European Symposium of Algorithms>, <International Symposium on Algorithms and Computation>, <International Conference on Computing and Combinatorics>, etc.
 
 ## Other experiences
 
