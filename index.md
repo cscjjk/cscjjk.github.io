@@ -20,7 +20,7 @@
     as a member of *Hundred talents program of Sun Yat sen University*.  
   Previously, I was a postdoc in HKU (2016-2018) and in HKUST (2018-2020).  
   
-  I am most interested in solving open problems that have clean definitions in theoretical computer sceicne. My current research area includes:  
+  I am most interested in solving open problems that have clean definitions in theoretical computer science. My current research area includes:  
      - **Computational Geometry**  
      - **Game Theory**  
      - **Algorithm Design**  
@@ -115,7 +115,7 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
   3. I am revising some previous results given in conference papers (e.g. AAMAS'19, ISAAC'16).
   4. I am attracted by some open problems in game theory and will study them recently.
   I am particularly interested in cooperation and competition between multiple players.
-  5. I am trying to extend the results given in my Phd. dissertation to the 3d case.
+  5. I am trying to extend the results given in my PhD. dissertation to the 3d case.
   6. I am working on several geometric optimization problems.
 
 ## Selected honors
