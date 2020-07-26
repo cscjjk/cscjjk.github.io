@@ -31,9 +31,7 @@
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
     Ph.D, Theoretical Computer Science, Tsinghua University (2016)  
-      My supervisor is Prof Andrew C. Yao.  
-
-### My PhD. Thesis  
+    My supervisor is Prof Andrew C. Yao. My PhD. Thesis is shown in the following.
 
 <table border="0">
   <tr>
