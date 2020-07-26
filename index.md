@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-## Brief Introduction
+## Brief introduction
 
   I joined SYSU (School of Intelligent Systems Engineering) on 2020.  
   I am a member of *Hundred talents program of Sun Yat sen University*.  
@@ -34,7 +34,7 @@
 Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.  
 
 
-## Journal Publications
+## Journal publications
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
   *Theoretical Computer Science* (2020 June)
@@ -104,7 +104,7 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
   5. I am trying to extend the results given in my Phd. dissertation to the 3d case.
   6. I am working on several geometric optimization problems.
 
-## Selected Honors
+## Selected honors
     2002  Gold medal in China National Olympiad in Informatics
     2003  Gold medal in China National Olympiad in Informatics
     2005  Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
