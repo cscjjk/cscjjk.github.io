@@ -25,7 +25,7 @@
      - **Combinatorics**  
      - **Discrete and Convex Geometry**
      
-  I want to recruit self-motivated master students who are good at mathematics or computer programming.
+  I want to recruit self-motivated (master) students who are good at mathematics or computer programming.
 
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
