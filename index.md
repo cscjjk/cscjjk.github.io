@@ -88,7 +88,7 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
 - [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
 *Comment: A small world is created here. It is my representative work!*
 
-- [**A technique for solving the polygon inclusion problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view?usp=sharing)  
+- [**A technique for solving the polygon inclusion problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view)  
 *Comment: A general technique for solving many polygon inclusion problems*
 
 - [**Finding all Maximal Area Parallelograms in a Convex Polygon**](https://arxiv.org/abs/1711.00181)  
