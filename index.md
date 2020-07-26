@@ -104,13 +104,13 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 ## Services
   I was/am a reviewer or sub-reviewer for  
-     "Journal of Computational Geometry",  
-     "Algorithmica",  
-     "Information Process Letter",  
-     "Discrete Applied Mathematics",  
-     "European Symposium of Algorithms",  
-     "International Symposium on Algorithms and Computation",  
-     "International Conference on Computing and Combinatorics", etc.
+   - "Journal of Computational Geometry",  
+   - "Algorithmica",  
+   - "Information Process Letter",  
+   - "Discrete Applied Mathematics",  
+   - "European Symposium of Algorithms",  
+   - "International Symposium on Algorithms and Computation",  
+   - "International Conference on Computing and Combinatorics", etc.
 
 ## Other experiences
 
