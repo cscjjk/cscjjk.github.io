@@ -4,7 +4,8 @@
     <td width="75%">
       <h1>金恺 Kai Jin</h1>
       <p><b>副教授Associate Professor</b></p>
-      <p><b>中山大学智能工程学院 SYSU-School of Intelligent Systems Engineering</b></p>
+      <p><b>中山大学智能工程学院</b></p>
+      <p><b>SYSU-School of Intelligent Systems Engineering</b></p>
       <p><b>cscjjk@gmail.com</b></p>
     </td>
     <td width="25%">
