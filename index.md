@@ -104,7 +104,8 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
   3. I am revising some previous results given in conference papers (e.g. AAMAS'19, ISAAC'16).
   4. I am attracted by some open problems in game theory and will study them recently.
   I am particularly interested in cooperation and competition between multiple players.
-  5. I am working on geometric optimization problems.
+  5. I am trying to extend the results given in my Phd. dissertation to the 3d case.
+  6. I am working on several geometric optimization problems.
 
 ## Selected Honors
     2002  Gold medal in China National Olympiad in Informatics
