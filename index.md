@@ -63,7 +63,7 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1007/978-3-030-26176-4_28)  
   *25th International Computing and Combinatorics Conference* (COCOON'19)
   
-- [**Optimal Partitioning Which Maximizes the Weighted Sum of Products**](https://doi.org/10.1007/978-3-319-59605-1_12) 
+- [**Optimal Partitioning Which Maximizes the Weighted Sum of Products**](https://doi.org/10.1007/978-3-319-59605-1_12)  
   *11th International Frontiers of Algorithmics Workshop* (FAW'17)  
   [See the full version here](https://drive.google.com/file/d/0B2JlHvPluDtNamlTUU5vd1RuZkE/view)
 
