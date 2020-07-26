@@ -103,7 +103,7 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
     2006  19-th place of ACM/ICPC word finals (as the team leader)
 
 ## Services
-  I am a reviewer or sub-reviewer for  
+  I was/am a reviewer or sub-reviewer for  
      "Journal of Computational Geometry",  
      "Algorithmica",  
      "Information Process Letter",  
