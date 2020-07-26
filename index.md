@@ -36,10 +36,10 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>When Convexity Meets Parallelism</h1>
+      <h3>When Convexity Meets Parallelism</h3>
       <p><b>– a New Geometric Structure and Its Application</b></p>
-      <p><b>See the short version [here](http://arxiv.org/abs/1512.03897)</b></p>
-      <p><b>Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.</b></p>
+      <p><b>See http://arxiv.org/abs/1512.03897</b></p>
+      <p><b>Supervised by Prof Andrew Yao and Haitao Wang</b></p>
     </td>
     <td width="40%">
       <img src="/nestp.png" width="95%">
