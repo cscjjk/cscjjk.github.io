@@ -23,7 +23,7 @@
      - **Algorithm Design**
      - **Combinatorics**
 
-## Education and Experience
+## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
     Ph.D, Theoretical Computer Science, Tsinghua University (2016)  
       My supervisor is Prof Andrew C. Yao.  
