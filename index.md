@@ -95,9 +95,6 @@ Supervised by Prof Andrew Yao and advised by Prof Haitao Wang.
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
-## My funding
-  - Sun Yat-sen University’s "Hundred Talents Program" research funding.
-
 ## Ongoing projects  
   1. I am looking for more applications of my technique for solving the polygon inclusion problems.  
   2. I am working with Prof Siu-Wing Cheng (HKUST) on *self-improving algorithms*.  
@@ -137,3 +134,5 @@ I design creative problems for many Olympic competition of Information, e.g.,
 - *Shooting Game*     (CTSC2006)  
 - *Comb and etc.*     (HNTSC 2005)
 
+## Received funding
+  - Sun Yat-sen University’s "Hundred Talents Program" research funding.
