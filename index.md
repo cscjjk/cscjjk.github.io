@@ -68,11 +68,11 @@
 
 - [**A Generalization of Self-Improving Algorithms**](https://doi.org/10.4230/LIPIcs.SoCG.2020.29)  
   *36th Symposium on Computational Geometry* (SoCG'2020)  
-  Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong 
+  Coauthors: S.-W. Cheng, M.-K. Chiu, M.T. Wong
 
 - [**Cooperation via Codes in Restricted Hat Guessing Games**](https://dl.acm.org/doi/10.5555/3306127.3331739)  
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19)  
-  Coauthors: Zhaoquan Gu, Ce Jin
+  Coauthors: Ce Jin, Zhaoquan Gu
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1007/978-3-030-26176-4_28)  
   *25th International Computing and Combinatorics Conference* (COCOON'19)
