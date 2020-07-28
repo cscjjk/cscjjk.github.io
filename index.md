@@ -54,7 +54,7 @@
   *Theoretical Computer Science* (2020 June)
 
 - [**Extensions of Self-Improving Sorters**](https://doi.org/10.1007/s00453-019-00604-6)  
-  *Agorithmica* (2020)  
+  *Algorithmica* (2020)  
   Coauthors: Siu-Wing Cheng, Lie Yan
 
 - [**Near-Linear Time Approximation Schemes for Geometric Maximum Coverage**](https://doi.org/10.1016/j.tcs.2017.11.026)  
