@@ -51,10 +51,10 @@
 ## Journal publications
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
-  *Theoretical Computer Science* (2020 June)
+  *Theoretical Computer Science* (Volume 838, 24 October 2020)
 
 - [**Extensions of Self-Improving Sorters**](https://doi.org/10.1007/s00453-019-00604-6)  
-  *Algorithmica* (2020)  
+  *Algorithmica* (Volume 82, January 2020)  
   Coauthors: Siu-Wing Cheng, Lie Yan
 
 - [**Near-Linear Time Approximation Schemes for Geometric Maximum Coverage**](https://doi.org/10.1016/j.tcs.2017.11.026)  
