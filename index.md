@@ -162,3 +162,4 @@ I design creative problems for many Olympic competition of Information, e.g.,
 [slide6](https://github.com/cscjjk/cscjjk.github.io/blob/master/6KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.pptx) 
 [slide7](https://github.com/cscjjk/cscjjk.github.io/blob/master/7%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%B8%B8%E7%94%A8%E6%80%9D%E6%83%B3.pptx)
 [slide8](https://github.com/cscjjk/cscjjk.github.io/blob/master/8%E4%B9%A0%E9%A2%98%E8%AF%BE1.pptx)
+[slide9](https://github.com/cscjjk/cscjjk.github.io/blob/master/9%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E8%A1%A8%E7%A4%BA%E3%80%81%E5%B9%BF%E4%B9%89%E8%A1%A8%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%8A%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.pptx)
