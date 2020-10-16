@@ -168,3 +168,4 @@ Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/c
 [slide9](https://github.com/cscjjk/cscjjk.github.io/blob/master/9%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E8%A1%A8%E7%A4%BA%E3%80%81%E5%B9%BF%E4%B9%89%E8%A1%A8%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%8A%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.pptx)
 [slide10](https://github.com/cscjjk/cscjjk.github.io/blob/master/10%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84%E3%80%81%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91.pptx)
 [slide11](https://github.com/cscjjk/cscjjk.github.io/blob/master/11%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91%E3%80%81%E6%A0%91%E4%B8%8E%E6%A3%AE%E6%9E%97.pptx)
+[slide12](https://github.com/cscjjk/cscjjk.github.io/blob/master/12%20%E5%89%8D%E7%BC%80%E6%A0%91Trie%E4%B8%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91.pptx)
