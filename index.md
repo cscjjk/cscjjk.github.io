@@ -157,6 +157,9 @@ I design creative problems for many Olympic competition of Information, e.g.,
   Please contact me if you are a student from ISE who want to join the training.
 
 ## Teaching (Autumn 2020) 
+
+Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/cscjjk.github.io/blob/master/FairAllocation.pptx)
+
    Data Structures and Algorithms [slide1](https://github.com/cscjjk/cscjjk.github.io/blob/master/1%E7%BB%AA%E8%AE%BA.ppt) 
    [slide2](https://github.com/cscjjk/cscjjk.github.io/blob/master/2%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E3%80%81%E9%A1%BA%E5%BA%8F%E8%A1%A8%E7%A4%BA%E6%96%B9%E5%BC%8F.pptx) [slide3](https://github.com/cscjjk/cscjjk.github.io/blob/master/3%E7%BA%BF%E6%80%A7%E8%A1%A8%E7%9A%84%E9%93%BE%E5%BC%8F%E8%A1%A8%E7%A4%BA%E6%96%B9%E5%BC%8F%E3%80%81%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B.pptx) [slide4](https://github.com/cscjjk/cscjjk.github.io/blob/master/4%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97%E7%9A%84%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%81%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B.pptx) [slide5](https://github.com/cscjjk/cscjjk.github.io/blob/master/5%E4%B8%B2%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%AE%9A%E4%B9%89%E3%80%81%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.pptx)
 [slide6](https://github.com/cscjjk/cscjjk.github.io/blob/master/6KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.pptx) 
@@ -164,3 +167,7 @@ I design creative problems for many Olympic competition of Information, e.g.,
 [slide8](https://github.com/cscjjk/cscjjk.github.io/blob/master/8%E4%B9%A0%E9%A2%98%E8%AF%BE1.pptx)
 [slide9](https://github.com/cscjjk/cscjjk.github.io/blob/master/9%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E8%A1%A8%E7%A4%BA%E3%80%81%E5%B9%BF%E4%B9%89%E8%A1%A8%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%8A%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.pptx)
 [slide10](https://github.com/cscjjk/cscjjk.github.io/blob/master/10%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84%E3%80%81%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91.pptx)
+[slide11](https://github.com/cscjjk/cscjjk.github.io/blob/master/11%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91%E3%80%81%E6%A0%91%E4%B8%8E%E6%A3%AE%E6%9E%97.pptx)
+[slide12](https://github.com/cscjjk/cscjjk.github.io/blob/master/12%20%E5%89%8D%E7%BC%80%E6%A0%91Trie%E4%B8%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91.pptx)
+[slide13](https://github.com/cscjjk/cscjjk.github.io/blob/master/13%20%E5%A0%86%E4%B8%8E%20%E5%B9%B6%E6%9F%A5%E9%9B%86.pptx)
+[slide14](https://github.com/cscjjk/cscjjk.github.io/blob/master/14%E4%B9%A0%E9%A2%98%E8%AF%BE2.pptx)
