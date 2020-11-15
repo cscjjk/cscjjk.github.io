@@ -174,3 +174,4 @@ Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/c
 [slide15](https://github.com/cscjjk/cscjjk.github.io/blob/master/15%E5%9B%BE%E7%9A%84%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.pptx)
 [slide16](https://github.com/cscjjk/cscjjk.github.io/blob/master/16%E5%9B%BE%E7%9A%84%E8%BF%9E%E9%80%9A%E6%80%A7%E3%80%81%E5%BC%BA%E8%BF%9E%E9%80%9A%E6%80%A7%E3%80%81%E5%9B%BE%E7%9A%84BFS%E4%B8%8EDFS%E3%80%81%E7%94%9F%E6%88%90%E6%A0%91.pptx)
 [slide17](https://github.com/cscjjk/cscjjk.github.io/blob/master/17%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E4%B8%8E%E5%85%B3%E9%94%AE%E8%B7%AF%E5%BE%84.pptx)
+[slide18](https://github.com/cscjjk/cscjjk.github.io/blob/master/18%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E3%80%81%E8%B4%9F%E7%8E%AF%E5%88%A4%E5%AE%9A.pptx)
