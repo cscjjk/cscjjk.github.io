@@ -155,6 +155,9 @@ I design creative problems for many Olympic competition of Information, e.g.,
 ## Coach for ACM/ICPC in SYSU-school of ISE  
   I am the head coach for the training of ACM/ICPC in our department.  
   Please contact me if you are a student from ISE who want to join the training.
+  
+  Next semester, I will teach <ACM/ICPC Training and Upgrading (Spring) ACM竞赛训练及提高（春）>. Welcome to join this class.
+  Next autumn, I will teach <ACM/ICPC Training and Upgrading (Autumn) ACM竞赛训练及提高（秋）>. Welcome to join this class as well.
 
 ## Teaching (Autumn 2020) 
 
