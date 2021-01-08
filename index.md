@@ -155,6 +155,11 @@ I design creative problems for many Olympic competition of Information, e.g.,
 ## Coach for ACM/ICPC in SYSU-school of ISE  
   I am the head coach for the training of ACM/ICPC in our department.  
   Please contact me if you are a student from ISE who want to join the training.
+  
+  Next semester, I will teach <ACM/ICPC Training and Upgrading (Spring) ACM竞赛训练及提高（春）>. Welcome to join this class.
+  (Cancelled, as I have to teach two other courses next semester)
+  
+  Next autumn, I will teach <ACM/ICPC Training and Upgrading (Autumn) ACM竞赛训练及提高（秋）>. Welcome to join this class as well.
 
 ## Teaching (Autumn 2020) 
 
@@ -174,3 +179,10 @@ Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/c
 [slide15](https://github.com/cscjjk/cscjjk.github.io/blob/master/15%E5%9B%BE%E7%9A%84%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.pptx)
 [slide16](https://github.com/cscjjk/cscjjk.github.io/blob/master/16%E5%9B%BE%E7%9A%84%E8%BF%9E%E9%80%9A%E6%80%A7%E3%80%81%E5%BC%BA%E8%BF%9E%E9%80%9A%E6%80%A7%E3%80%81%E5%9B%BE%E7%9A%84BFS%E4%B8%8EDFS%E3%80%81%E7%94%9F%E6%88%90%E6%A0%91.pptx)
 [slide17](https://github.com/cscjjk/cscjjk.github.io/blob/master/17%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E4%B8%8E%E5%85%B3%E9%94%AE%E8%B7%AF%E5%BE%84.pptx)
+[slide18](https://github.com/cscjjk/cscjjk.github.io/blob/master/18%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E3%80%81%E8%B4%9F%E7%8E%AF%E5%88%A4%E5%AE%9A.pptx)
+[slide19](https://github.com/cscjjk/cscjjk.github.io/blob/master/19%E9%9D%99%E6%80%81%E6%9F%A5%E6%89%BE%E8%A1%A8%E3%80%81%E4%BA%8C%E5%8F%89%E6%9F%A5%E6%89%BE%E6%A0%91.pptx)
+[slide20](https://github.com/cscjjk/cscjjk.github.io/blob/master/20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.pptx)
+[slide22](https://github.com/cscjjk/cscjjk.github.io/blob/master/22%E4%BC%B8%E5%B1%95%E6%A0%91.pptx)
+[slide23](https://github.com/cscjjk/cscjjk.github.io/blob/master/23%E5%93%88%E5%B8%8C%E8%A1%A8.pptx)
+[slide24](https://github.com/cscjjk/cscjjk.github.io/blob/master/24%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E5%92%8C%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F.pptx)
+[slide25](https://github.com/cscjjk/cscjjk.github.io/blob/master/25NPC%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8%26%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93.pptx)
