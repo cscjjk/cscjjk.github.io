@@ -186,3 +186,7 @@ Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/c
 [slide23](https://github.com/cscjjk/cscjjk.github.io/blob/master/23%E5%93%88%E5%B8%8C%E8%A1%A8.pptx)
 [slide24](https://github.com/cscjjk/cscjjk.github.io/blob/master/24%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E5%92%8C%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F.pptx)
 [slide25](https://github.com/cscjjk/cscjjk.github.io/blob/master/25NPC%E7%90%86%E8%AE%BA%E5%85%A5%E9%97%A8%26%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93.pptx)
+
+## Teaching (Spring 2021) 
+[slide1](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-01%E7%BB%AA%E8%AE%BA%2B%E7%BA%BF%E6%80%A7%E8%A1%A8%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84.ppt)
+[EXP1](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-01-EXP%20Sort%20%26%20Worst%20case%20complexity.pptx)
