@@ -201,3 +201,4 @@ Data Structures and Algorithms
 [slide4](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-04%E4%B8%B2%E7%9A%84%E5%AE%9A%E4%B9%89%E3%80%81%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.pptx)
 [EXP4](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-04-EXP%20string%20circ_queue.pptx)
 [slide5](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-05KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.pptx)
+[EXP5](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-05-EXP%20%E4%B8%B2%E5%8C%B9%E9%85%8D.pptx)
