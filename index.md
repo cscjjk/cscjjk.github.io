@@ -203,3 +203,10 @@ Data Structures and Algorithms
 [slide5](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-05KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.pptx)
 [EXP5](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-05-EXP%20%E4%B8%B2%E5%8C%B9%E9%85%8D.pptx)
 [slide6](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-06%E5%B8%B8%E7%94%A8%E6%80%9D%E6%83%B3-%E9%80%92%E5%BD%92%E5%88%86%E6%B2%BB.pptx)
+EXP6=EXAM
+[slide7](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-07%E5%B8%B8%E7%94%A8%E6%80%9D%E6%83%B3-%E8%B4%AA%E5%BF%83%E5%8A%A8%E8%A7%84.pptx)
+[EXP7](https://github.com/cscjjk/cscjjk.github.io/blob/master/2021-07-EXP%20mergesort_qsort.pptx)
+[slide8](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-08%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E8%A1%A8%E7%A4%BA.pptx)
+[EXP8](https://github.com/cscjjk/cscjjk.github.io/blob/master/2021-08-EXP%20DP_greedy.pptx)
+[slide9](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-09%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84%E3%80%81%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91.pptx)
+[EXP9](https://github.com/cscjjk/cscjjk.github.io/blob/master/2021-09-EXP_sparse_matrix.pptx)
