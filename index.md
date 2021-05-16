@@ -210,3 +210,6 @@ EXP6=EXAM
 [EXP8](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-08-EXP%20DP_greedy.pptx)
 [slide9](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-09%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AE%9A%E4%B9%89%E3%80%81%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84%E3%80%81%E9%81%8D%E5%8E%86%E4%BA%8C%E5%8F%89%E6%A0%91.pptx)
 [EXP9](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-09-EXP_sparse_matrix.pptx)
+[slide10](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-10%E6%A0%91%E4%B8%8E%E6%A3%AE%E6%9E%97%E3%80%81%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91.pptx)
+[EXP10](notfinished)
+[slide11](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-11%E5%A0%86%E4%B8%8E%E5%B9%B6%E6%9F%A5%E9%9B%86.pptx)
