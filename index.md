@@ -140,6 +140,7 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
    - "International Journal of Foundations of Computer Science".
 
 ## Received funding
+  - National Natural Science Foundation of China (Grant No. 62002394)
   - Sun Yat-sen University’s "Hundred Talents Program" research funding.
   
 ## Other experiences
