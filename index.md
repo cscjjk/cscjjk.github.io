@@ -50,6 +50,9 @@
 
 ## Journal publications
 
+- [**Dynamic Task Allocation in Multi-Robot System Based on a Team Competition Model**](https://doi.org/10.3389/fnbot.2021.674949)
+- *Frontiers in Neurorobotics(Volumne 15, 20 May 2021)
+
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
   *Theoretical Computer Science* (Volume 838, 24 October 2020)
 
