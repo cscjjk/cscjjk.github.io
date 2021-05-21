@@ -77,6 +77,7 @@
 - [**Cooperation via Codes in Restricted Hat Guessing Games**](https://dl.acm.org/doi/10.5555/3306127.3331739)  
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19)  
   Coauthors: Ce Jin, Zhaoquan Gu
+  <img src="/LOD459.png" width="95%">
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1007/978-3-030-26176-4_28)  
   *25th International Computing and Combinatorics Conference* (COCOON'19)
@@ -129,6 +130,10 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
     2006  19-th place of ACM/ICPC word finals (as the team leader)
 
 ## Services
+
+  I was/am a program chair of
+    - 20th Conference in Autonomous Agents and Multiagent Systems (AAMAS'21)
+
   I was/am a reviewer or sub-reviewer for  
    - "Journal of Computational Geometry",  
    - "Algorithmica",  
@@ -161,11 +166,6 @@ I design creative problems for many Olympic competition of Information, e.g.,
   I am the head coach for the training of ACM/ICPC in our department.  
   Please contact me if you are a student from ISE who want to join the training.
   
-  Next semester, I will teach <ACM/ICPC Training and Upgrading (Spring) ACM竞赛训练及提高（春）>. Welcome to join this class.
-  (Cancelled, as I have to teach two other courses next semester)
-  
-  Next autumn, I will teach <ACM/ICPC Training and Upgrading (Autumn) ACM竞赛训练及提高（秋）>. Welcome to join this class as well.
-
 ## Teaching (Autumn 2020) 
 
 Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/cscjjk.github.io/blob/master/FairAllocation.pptx)
