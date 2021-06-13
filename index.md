@@ -131,7 +131,7 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 ## Services
 
-  I was/am a program chair of
+  I was/am a program committee of
     - 20th Conference in Autonomous Agents and Multiagent Systems (AAMAS'21)
 
   I was/am a reviewer or sub-reviewer for  
