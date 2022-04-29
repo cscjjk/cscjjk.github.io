@@ -54,7 +54,7 @@
   *IEEE Access* (27 April 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
 
-- [**Fast Algorithms for Computing the Statistics of Pattern Matching**](https://ieeexplore.ieee.org/document/9514871)
+- [**Fast Algorithms for Computing the Statistics of Pattern Matching**](https://ieeexplore.ieee.org/document/9514871)  
   *IEEE Access* (Volumne 9, 16 Aug 2021)  
   Coauthors: D. Zhang
   
