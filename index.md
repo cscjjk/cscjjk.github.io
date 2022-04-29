@@ -51,7 +51,7 @@
 ## Journal publications
 
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
-  *IEEE Access* (27 April 2022)  
+  *ACM Transactions on Algorithms* (27 April 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
 
 - [**Fast Algorithms for Computing the Statistics of Pattern Matching**](https://ieeexplore.ieee.org/document/9514871)  
