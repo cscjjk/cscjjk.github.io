@@ -49,7 +49,7 @@
 </table>
 
 ## Journal publications
-
+  
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
   *ACM Transactions on Algorithms* (27 April 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
@@ -77,6 +77,10 @@
   *Notes on Number Theory and Discrete Mathematics*  (NNTDM, Volume 23, 2017)
 
 ## Conference papers
+
+- [**String Rearrangement Inequalities and a Total Order Between Primitive Words**](https://arxiv.org/abs/2204.11213)  
+  *16th Conference on Frontiers of Algorithmic Wisdom* (FAW'2022)  
+  Coauthors: R. Luo, T. Zhu
 
 - [**A Generalization of Self-Improving Algorithms**](https://doi.org/10.4230/LIPIcs.SoCG.2020.29)  
   *36th Symposium on Computational Geometry* (SoCG'2020)  
