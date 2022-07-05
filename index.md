@@ -126,6 +126,9 @@
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
+- [**Sum-of-Max Partition under a Knapsack Constraint**](http://arxiv.org/abs/2207.00768)  
+*Comment: Interesting DP speed up technique.*
+
 ## Ongoing projects  
   1. I am looking for more applications of my technique for solving the polygon inclusion problems.  
   2. I am working with Prof Siu-Wing Cheng (HKUST) on *self-improving algorithms*.  
@@ -144,7 +147,10 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 ## Services
 
   I was/am a program committee of
-    - 20th Conference in Autonomous Agents and Multiagent Systems (AAMAS'21)
+    - AAMAS'21
+    - AAMAS'22
+    - COCOON 2022
+    - IJTCS-FAW 2022
 
   I was/am a reviewer or sub-reviewer for  
    - "Journal of Computational Geometry",  
