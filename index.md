@@ -51,7 +51,7 @@
 ## Journal publications
   
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
-  *ACM Transactions on Algorithms* (27 April 2022)  
+  *ACM Transactions on Algorithms* (Volume 18, July 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
 
 - [**Fast Algorithms for Computing the Statistics of Pattern Matching**](https://ieeexplore.ieee.org/document/9514871)  
@@ -114,7 +114,10 @@
   Coauthor: Kevin Matulef
 
 
-## Submitted papers
+## papers to be published
+
+- [**Sum-of-Max Partition under a Knapsack Constraint**](http://arxiv.org/abs/2207.00768)  
+*Comment: Interesting DP speed up technique.*
 
 - [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
 *Comment: A small world is created here. It is my representative work!*
@@ -126,8 +129,6 @@
 *Comment: This paper is the full version of my CCCG11 paper.  
 Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Parallelogram.*
 
-- [**Sum-of-Max Partition under a Knapsack Constraint**](http://arxiv.org/abs/2207.00768)  
-*Comment: Interesting DP speed up technique.*
 
 ## Ongoing projects  
   1. I am looking for more applications of my technique for solving the polygon inclusion problems.  
