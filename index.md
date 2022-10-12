@@ -114,7 +114,7 @@
   Coauthor: Kevin Matulef
 
 
-## papers to be published
+## Unpublished papers 
 
 - [**Sum-of-Max Partition under a Knapsack Constraint**](http://arxiv.org/abs/2207.00768)  
 *Comment: Interesting DP speed up technique.*
