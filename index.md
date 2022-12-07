@@ -50,6 +50,10 @@
 
 ## Journal publications
   
+- [**Sum-of-Max Partition under a Knapsack Constraint**](https://www.sciencedirect.com/science/article/pii/S0045790622007364)  
+  *Computers and Electrical Engineering* (Volume 105, Jan 2023)
+  Coauthors: D. Zhang, C. Zhang
+
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
   *ACM Transactions on Algorithms* (Volume 18, July 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
@@ -115,9 +119,6 @@
 
 
 ## Unpublished papers 
-
-- [**Sum-of-Max Partition under a Knapsack Constraint**](http://arxiv.org/abs/2207.00768)  
-*Comment: Interesting DP speed up technique.*
 
 - [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
 *Comment: A small world is created here. It is my representative work!*
