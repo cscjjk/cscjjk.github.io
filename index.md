@@ -51,7 +51,7 @@
 ## Journal publications
   
 - [**Sum-of-Max Partition under a Knapsack Constraint**](https://www.sciencedirect.com/science/article/pii/S0045790622007364)  
-  *Computers and Electrical Engineering* (Volume 105, Jan 2023)
+  *Computers and Electrical Engineering* (Volume 105, Jan 2023)  
   Coauthors: D. Zhang, C. Zhang
 
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
