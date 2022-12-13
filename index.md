@@ -54,6 +54,10 @@
   *Computers and Electrical Engineering* (Volume 105, Jan 2023)  
   Coauthors: D. Zhang, C. Zhang
 
+- [**Latin Matchings and Ordered Designs OD(n − 1, n, 2n − 1)**](https://doi.org/10.3390/math10244703)  
+  *Mathematics* (10(24), 4703; 11 Dec 2022)  
+  Coauthors: T. Zhu, Z. Gu, X. Sun
+  
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
   *ACM Transactions on Algorithms* (Volume 18, July 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
