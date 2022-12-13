@@ -167,8 +167,9 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
    - "International Journal of Foundations of Computer Science".
 
 ## Received funding
-  - National Natural Science Foundation of China (Grant No. 62002394)
+  - National Natural Science Foundation of China (Grant No. 62002394).
   - Sun Yat-sen University’s "Hundred Talents Program" research funding.
+  - Shenzhen Science and Technology Program (Grant No. 202206193000001, 20220817175048002).
   
 ## Other experiences
 
@@ -258,7 +259,7 @@ EXP13=EXAM
 
 Data Structures and Algorithms
 
-Discrete Mathematcis
+Discrete Mathematics
 
 Operation Research
    
