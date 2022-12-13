@@ -253,3 +253,12 @@ EXP13=EXAM
 [EXP16](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-16-EXP%20queen_topo_SCC.pptx)
 [slide17](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-17%20%E5%93%88%E5%B8%8C%E8%A1%A8.pptx)
 [slide18](https://github.com/cscjjk/cscjjk.github.io/raw/master/2021-18%20(%E8%87%AA%E5%AD%A6)%E4%BC%B8%E5%B1%95%E6%A0%91.pptx)
+
+## Teaching (Autumn 2022) 
+
+Data Structures and Algorithms
+
+Discrete Mathematcis
+
+Operation Research
+   
