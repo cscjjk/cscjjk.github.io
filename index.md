@@ -57,7 +57,8 @@
 - [**Latin Matchings and Ordered Designs OD(n − 1, n, 2n − 1)**](https://doi.org/10.3390/math10244703)  
   *Mathematics* (10(24), 4703; 11 Dec 2022)  
   Coauthors: T. Zhu, Z. Gu, X. Sun
-  
+  <img src="/LOD459.png" width="95%">
+    
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
   *ACM Transactions on Algorithms* (Volume 18, July 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
@@ -97,7 +98,6 @@
 - [**Cooperation via Codes in Restricted Hat Guessing Games**](https://dl.acm.org/doi/10.5555/3306127.3331739)  
   *18th Conference in Autonomous Agents and Multiagent Systems* (AAMAS'19)  
   Coauthors: Ce Jin, Zhaoquan Gu
-  <img src="/LOD459.png" width="95%">
 
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1007/978-3-030-26176-4_28)  
   *25th International Computing and Combinatorics Conference* (COCOON'19)
