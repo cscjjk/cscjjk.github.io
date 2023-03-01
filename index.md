@@ -87,7 +87,7 @@
 
 ## Conference papers
 
-- [**String Rearrangement Inequalities and a Total Order Between Primitive Words**](https://arxiv.org/abs/2204.11213)  
+- [**String Rearrangement Inequalities and a Total Order Between Primitive Words**](https://arxiv.org/abs/2204.11213](https://link.springer.com/chapter/10.1007/978-3-031-20796-9_15)  
   *16th Conference on Frontiers of Algorithmic Wisdom* (FAW'2022)  
   Coauthors: R. Luo, T. Zhu
 
