@@ -189,6 +189,8 @@ I design creative problems for many Olympic competition of Information, e.g.,
   I am the head coach for the training of ACM/ICPC in our department.  
   Please contact me if you are a student from ISE who want to join the training.
   
+APIO2023 lecture note  [母函数及DP的综合运用](https://github.com/cscjjk/cscjjk.github.io/blob/master/%E6%AF%8D%E5%87%BD%E6%95%B0%E5%8F%8ADP%E7%9A%84%E7%BB%BC%E5%90%88%E8%BF%90%E7%94%A8-APIO2023.pdf)
+  
 ## Teaching (Autumn 2020) 
 
 Game Theory (AI frontier lesson 2) [Fair-Allocation](https://github.com/cscjjk/cscjjk.github.io/blob/master/FairAllocation.pptx)
