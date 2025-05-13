@@ -87,6 +87,21 @@
 
 ## Conference papers
 
+- [**Sum-of-Max Chain Partition of a Tree**](Just accepted)  
+  *25th International Computing and Combinatorics Conference* (COCOON'25)
+  Coauthors: R. Luo, T. Zhu
+
+- [**Discrete Eort Distribution via Regrettable Greedy Algorithm**](Just accepted)  
+  *25th International Computing and Combinatorics Conference* (COCOON'25)
+  Coauthors: S. Cao, T. Zhu
+
+- [**Simple k-crashing Plan with a Good Approximation Ratio**](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2366.pdf)  
+  *23rd Conference in Autonomous Agents and Multiagent Systems* (AAMAS'24)
+  Coauthors: R. Luo, Z. Ye
+
+- [**On 1-factorizations of Bipartite Kneser Graphs**](Just accepted)  
+  *25th International Computing and Combinatorics Conference* (COCOON'25)
+
 - [**String Rearrangement Inequalities and a Total Order Between Primitive Words**](https://link.springer.com/chapter/10.1007/978-3-031-20796-9_15)  
   *16th Conference on Frontiers of Algorithmic Wisdom* (FAW'2022)  
   Coauthors: R. Luo, T. Zhu
