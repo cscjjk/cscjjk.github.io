@@ -16,9 +16,9 @@
 
 ## Brief introduction
 
-  I joined SYSU (School of Intelligent Systems Engineering) on July 2020,  
-    as a member of *Hundred talents program of Sun Yat sen University*.  
-  Previously, I was a postdoc in HKU (2016-2018) and in HKUST (2018-2020).  
+  I joined SYSU (School of Intelligent Systems Engineering) in July 2020,  
+    as a member of the *Hundred Talents Program of Sun Yat-sen University*.  
+  Previously, I was a postdoc at HKU (2016-2018) and HKUST (2018-2020).  
   
   I am most interested in solving open problems that have clean definitions in theoretical computer science. My current research area includes:  
      - **Computational Geometry**  
@@ -27,12 +27,12 @@
      - **Combinatorics**  
      - **Discrete and Convex Geometry**
      
-  I am recruiting self-motivated (master) students who are good at mathematics or computer programming.
+  I am recruiting self-motivated students who are good at mathematics or computer programming.
 
 ## Education background
     B.S., Special Pilot CS Class (YAO class), Tsinghua University (2008）
     Ph.D, Theoretical Computer Science, Tsinghua University (2016)  
-    My supervisor is Prof Andrew C. Yao. My PhD. Thesis is shown in the following.
+    My supervisor is Prof Andrew C. Yao. My PhD thesis is shown in the following.
 
 <table border="0">
   <tr>
@@ -68,7 +68,7 @@
   Coauthors: D. Zhang
   
 - [**Dynamic Task Allocation in Multi-Robot System Based on a Team Competition Model**](https://doi.org/10.3389/fnbot.2021.674949)  
-  *Frontiers in Neurorobotics* (Volumne 15, 20 May 2021)  
+  *Frontiers in Neurorobotics* (Volume 15, 20 May 2021)  
   Coauthors: P. Tang, S. Chen, J. Peng
   
 - [**On 1-factorizations of Bipartite Kneser Graphs**](https://doi.org/10.1016/j.tcs.2020.06.003)  
