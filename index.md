@@ -91,7 +91,7 @@
   *25th International Computing and Combinatorics Conference* (COCOON'25)
   Coauthors: R. Luo, T. Zhu
 
-- [**Discrete Eort Distribution via Regrettable Greedy Algorithm**](Just accepted)  
+- [**Discrete Effort Distribution via Regrettable Greedy Algorithm**](Just accepted)  
   *25th International Computing and Combinatorics Conference* (COCOON'25)
   Coauthors: S. Cao, T. Zhu
 
