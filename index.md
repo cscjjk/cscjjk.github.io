@@ -88,11 +88,11 @@
 ## Conference papers
 
 - [**Sum-of-Max Chain Partition of a Tree**](Just accepted)  
-  *25th International Computing and Combinatorics Conference* (COCOON'25)  
+  *31st International Computing and Combinatorics Conference* (COCOON'25)  
   Coauthors: R. Luo, T. Zhu
 
 - [**Discrete Effort Distribution via Regrettable Greedy Algorithm**](Just accepted)  
-  *25th International Computing and Combinatorics Conference* (COCOON'25)  
+  *31st International Computing and Combinatorics Conference* (COCOON'25)  
   Coauthors: S. Cao, T. Zhu
 
 - [**Simple k-crashing Plan with a Good Approximation Ratio**](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2366.pdf)  
@@ -149,20 +149,18 @@ Among others, it presents an $O(n^2)$ time algorithm for finding Maximal Area Pa
 
 ## Ongoing projects  
   1. I am looking for more applications of my technique for solving the polygon inclusion problems.  
-  2. I am attracted by some open problems in game theory and will study them recently.
-  I am particularly interested in cooperation and competition between multiple players.
+  2. I am  interested in cooperation and competition between multiple players.
   3. I am trying to extend the results given in my PhD. dissertation to the 3d case.
-  4. I am working on several geometric optimization problems.
 
 ## Selected honors
-    2002  Gold medal in China National Olympiad in Informatics
-    2003  Gold medal in China National Olympiad in Informatics
+    2002  Gold medal in the China National Olympiad in Informatics
+    2003  Gold medal in the China National Olympiad in Informatics
     2005  Champion of ACM/ICPC regional contest, Chengdu (as the team leader)  
-    2006  19-th place of ACM/ICPC word finals (as the team leader)
+    2006  19th place in the ACM/ICPC world finals (as the team leader)
 
 ## Services
 
-  I was/am a program committee of
+  I was/am a PC member of
     - AAMAS'21
     - AAMAS'22
     - COCOON 2022
