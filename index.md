@@ -99,9 +99,6 @@
   *23rd Conference in Autonomous Agents and Multiagent Systems* (AAMAS'24)
   Coauthors: R. Luo, Z. Ye
 
-- [**On 1-factorizations of Bipartite Kneser Graphs**](Just accepted)  
-  *25th International Computing and Combinatorics Conference* (COCOON'25)
-
 - [**String Rearrangement Inequalities and a Total Order Between Primitive Words**](https://link.springer.com/chapter/10.1007/978-3-031-20796-9_15)  
   *16th Conference on Frontiers of Algorithmic Wisdom* (FAW'2022)  
   Coauthors: R. Luo, T. Zhu
