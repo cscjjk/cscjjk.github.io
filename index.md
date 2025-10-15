@@ -49,6 +49,10 @@
 </table>
 
 ## Journal publications
+
+- [**Simple k-crashing Plan with a Good Approximation Ratio**](https://doi.org/10.3390/math13142234)  
+  *Mathematics* (13(14), 4703; 9 July 2025)  
+  Coauthors: R. Luo, Z. Ye
   
 - [**Sum-of-Max Partition under a Knapsack Constraint**](https://www.sciencedirect.com/science/article/pii/S0045790622007364)  
   *Computers and Electrical Engineering* (Volume 105, Jan 2023)  
