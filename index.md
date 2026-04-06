@@ -91,11 +91,11 @@
 
 ## Conference papers
 
-- [**Sum-of-Max Chain Partition of a Tree**](Just accepted)  
+- [**Sum-of-Max Chain Partition of a Tree**](https://dl.acm.org/doi/10.1007/978-981-95-0218-9_5)  
   *31st International Computing and Combinatorics Conference* (COCOON'25)  
   Coauthors: R. Luo, T. Zhu
 
-- [**Discrete Effort Distribution via Regret-enabled Greedy Algorithm**](Just accepted)  
+- [**Discrete Effort Distribution via Regret-enabled Greedy Algorithm**](https://dl.acm.org/doi/10.1007/978-981-95-0215-8_9)  
   *31st International Computing and Combinatorics Conference* (COCOON'25)  
   Coauthors: S. Cao, T. Zhu
 
