@@ -54,7 +54,7 @@
   *Acta Informatica* (63(17), 658; 15 Apr 2026)  
   Coauthors: R. Luo, T. Zhu
 
-  - [**Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach**](https://doi.org/10.3390/math14040658)  
+- [**Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach**](https://doi.org/10.3390/math14040658)  
   *Mathematics* (14(4), 658; 12 Feb 2026)  
   Coauthors: T. Zhu, R. Luo, S. Cao
 
