@@ -22,11 +22,11 @@
   
   I am most interested in solving open problems that have clean definitions in theoretical computer science. My current research area includes:  
   
-     - **Computational Geometry, Discrete and Convex Geometry**
+     - Computational Geometry, Discrete and Convex Geometry
   
-     - **Algorithm Design**
+     - Algorithm Design
      
-     - **Game Theory (Especially, fair division)**  
+     - Game Theory (Especially, fair division)
      
   I am recruiting self-motivated students who are good at mathematics or computer programming.
 
