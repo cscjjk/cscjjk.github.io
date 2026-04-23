@@ -48,7 +48,13 @@
   </tr>
 </table>
 
-## Journal publications
+## My Representative Research Contributions
+
+- [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
+*Comment: A small world is created here. It is my representative work!*
+
+- [**A Technique for Solving the Polygon Inclusion Problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view)  
+*Comment: A general technique for solving many polygon inclusion problems*
 
 - [**Simple linear time algorithm for sorting strings in omega-order with applications**](https://doi.org/10.1007/s00236-026-00530-5)  
   *Acta Informatica* (63, article number 17; 15 Apr 2026)  
@@ -58,6 +64,17 @@
   *Mathematics* (14(4), 658; 12 Feb 2026)  
   Coauthors: T. Zhu, R. Luo, S. Cao
 
+- [**Latin Matchings and Ordered Designs OD(n − 1, n, 2n − 1)**](https://doi.org/10.3390/math10244703)  
+  *Mathematics* (10(24), 4703; 11 Dec 2022)  
+  Coauthors: T. Zhu, Z. Gu, X. Sun
+  <img src="/LOD459.png" width="95%">
+
+- [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
+  *ACM Transactions on Algorithms* (Volume 18, July 2022)  
+  Coauthors: S. Cheng, M. Chiu, M.T. Wong
+  
+## Journal publications
+
 - [**Simple k-crashing Plan with a Good Approximation Ratio**](https://doi.org/10.3390/math13142234)  
   *Mathematics* (13(14), 4703; 9 July 2025)  
   Coauthors: R. Luo, Z. Ye
@@ -65,15 +82,6 @@
 - [**Sum-of-Max Partition under a Knapsack Constraint**](https://www.sciencedirect.com/science/article/pii/S0045790622007364)  
   *Computers and Electrical Engineering* (Volume 105, Jan 2023)  
   Coauthors: D. Zhang, C. Zhang
-
-- [**Latin Matchings and Ordered Designs OD(n − 1, n, 2n − 1)**](https://doi.org/10.3390/math10244703)  
-  *Mathematics* (10(24), 4703; 11 Dec 2022)  
-  Coauthors: T. Zhu, Z. Gu, X. Sun
-  <img src="/LOD459.png" width="95%">
-    
-- [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
-  *ACM Transactions on Algorithms* (Volume 18, July 2022)  
-  Coauthors: S. Cheng, M. Chiu, M.T. Wong
 
 - [**Fast Algorithms for Computing the Statistics of Pattern Matching**](https://ieeexplore.ieee.org/document/9514871)  
   *IEEE Access* (Volumne 9, 16 Aug 2021)  
@@ -147,12 +155,6 @@
 
 
 ## Unpublished papers 
-
-- [**A Geometric Structure Associated with the Convex Polygon**](http://arxiv.org/abs/1512.03897)  
-*Comment: A small world is created here. It is my representative work!*
-
-- [**A Technique for Solving the Polygon Inclusion Problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view)  
-*Comment: A general technique for solving many polygon inclusion problems*
 
 - [**Finding all Maximal Area Parallelograms in a Convex Polygon**](https://arxiv.org/abs/1711.00181)  
 *Comment: This paper is the full version of my CCCG11 paper.  
