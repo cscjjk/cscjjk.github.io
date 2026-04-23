@@ -55,24 +55,25 @@
 *Comment: A small world is created here. It is my representative work!*
 
 - [**A Technique for Solving the Polygon Inclusion Problems**](https://drive.google.com/file/d/1Uyt4Xs4MFlVadWz64TD8tP73A8nHrfaW/view)  
-*Comment: A general technique for solving many polygon inclusion problems*
-
-- [**Simple linear time algorithm for sorting strings in omega-order with applications**](https://doi.org/10.1007/s00236-026-00530-5)  
-  *Acta Informatica* (63, article number 17; 15 Apr 2026)  
-  Coauthors: R. Luo, T. Zhu
-
-- [**Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach**](https://doi.org/10.3390/math14040658)  
-  *Mathematics* (14(4), 658; 12 Feb 2026)  
-  Coauthors: T. Zhu, R. Luo, S. Cao
+*Comment: A general technique for solving many polygon inclusion problems.*
 
 - [**Latin Matchings and Ordered Designs OD(n − 1, n, 2n − 1)**](https://doi.org/10.3390/math10244703)  
-  *Mathematics* (10(24), 4703; 11 Dec 2022)  
-  Coauthors: T. Zhu, Z. Gu, X. Sun
+  *Mathematics* (10(24), 4703; 11 Dec 2022)
+  *Comment: An amazingly elegant combinatorial design is reported in this paper.*
   <img src="/LOD459.png" width="95%">
+  
+- [**Simple linear time algorithm for sorting strings in omega-order with applications**](https://doi.org/10.1007/s00236-026-00530-5)  
+  *Acta Informatica* (63, article number 17; 15 Apr 2026)  
+  *Comment: Sorting repeating strings can be just as efficient as sorting strings.*
+
+- [**Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach**](https://doi.org/10.3390/math14040658)  
+  *Mathematics* (14(4), 658; 12 Feb 2026)
+*Comment: Strongly Pigou–Dalton is sufficient as a good criterion in allocating identical items.*
 
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
   *ACM Transactions on Algorithms* (Volume 18, July 2022)  
   Coauthors: S. Cheng, M. Chiu, M.T. Wong
+
   
 ## Journal publications
 
