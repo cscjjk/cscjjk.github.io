@@ -68,6 +68,7 @@
 
 - [**Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach**](https://doi.org/10.3390/math14040658)  
   *Mathematics* (14(4), 658; 12 Feb 2026)
+  
   *Comment: Strongly Pigou–Dalton is sufficient as a good criterion in allocating identical items.*
 
 - [**A Generalization of Self-Improving Algorithms**](https://dl.acm.org/doi/10.1145/3531227)  
